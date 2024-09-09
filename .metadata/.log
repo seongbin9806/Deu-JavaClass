@@ -1,0 +1,40 @@
+!SESSION 2024-09-09 20:22:08.265 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 20:22:12.937
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 20:22:45.952
+!MESSAGE Logback config file: /Users/choeseongbin/Desktop/deu/java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-09-09 20:29:07.006
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2024-09-09 20:29:07.010
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-09-09 20:29:07.010
+!MESSAGE The project description file (.project) for 'Hello3978' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-09 20:29:08.006
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-09-09 20:29:09.230 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/choeseongbin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/choeseongbin/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 20:29:12.290
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-09 20:29:33.470
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 20:29:34.020
+!MESSAGE Logback config file: /Users/choeseongbin/Desktop/deu/java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
